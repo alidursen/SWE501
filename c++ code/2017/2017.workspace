@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="2017" Database="">
+  <Project Name="int-to-binary" Path="int-to-binary/int-to-binary.project" Active="No"/>
+  <Project Name="carpimtablosu" Path="carpimtablosu/carpimtablosu.project" Active="Yes"/>
+  <Project Name="fibonacci30" Path="fibonacci30/fibonacci30.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="int-to-binary" ConfigName="Debug"/>
+      <Project Name="carpimtablosu" ConfigName="Debug"/>
+      <Project Name="fibonacci30" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="int-to-binary" ConfigName="Release"/>
+      <Project Name="carpimtablosu" ConfigName="Release"/>
+      <Project Name="fibonacci30" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

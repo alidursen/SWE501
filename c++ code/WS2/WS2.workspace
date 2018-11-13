@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="WS2" Database="WS2.tags">
+  <Project Name="float_to_binary" Path="float_to_binary/float_to_binary.project" Active="Yes"/>
+  <Project Name="asd" Path="asd/asd.project"/>
+  <Project Name="arrayinverse" Path="arrayinverse/arrayinverse.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="float_to_binary" ConfigName="Debug"/>
+      <Project Name="asd" ConfigName="Debug"/>
+      <Project Name="arrayinverse" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="float_to_binary" ConfigName="Release"/>
+      <Project Name="asd" ConfigName="Release"/>
+      <Project Name="arrayinverse" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,30 @@
+#include "Setting.h"
+
+
+Setting::Setting(char* fileloc){
+		std::ifstream inputFile;
+		inputFile.open(fileloc, std::ifstream::in);
+		inputFile >> nCPU;
+		aCPU = CPUArray(nCPU, inputFile, &pCq);
+		inputFile >> nOutput;
+		aOut = OutArray(nOutput, inputFile, &pOq);
+		inputFile >> nTask;
+		aTask = TaskArray(nTask, inputFile);
+		inputFile.close();
+	}
+	
+void Setting::Work(){
+}
+	
+void Setting::ExtractResults(char* fileloc){
+		std::ofstream outputFile;
+		outputFile.open(fileloc);
+		outputFile << pCq.maxLength() << std::endl;
+		outputFile << pOq.maxLength() << std::endl;
+		outputFile << aCPU.longestWorker() << std::endl;
+		outputFile << aOut.longestWorker() << std::endl;
+		outputFile << aTask.avWaitTime() << std::endl;
+		outputFile << aTask.maxWaitTime() << std::endl;
+		outputFile << aTask.avTaskTime() << std::endl;
+		outputFile.close();
+	}

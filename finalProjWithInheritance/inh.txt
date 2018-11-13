@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/Task.cpp.o ./Debug/Tag.cpp.o ./Debug/Worker.cpp.o ./Debug/Setting.cpp.o ./Debug/ObjArray.cpp.o ./Debug/Prequeue.cpp.o

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="quiz_0306" Database="">
+  <Project Name="quiz" Path="quiz/quiz.project" Active="No"/>
+  <Project Name="cardgame_demo" Path="cardgame_demo/cardgame_demo.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="quiz" ConfigName="Debug"/>
+      <Project Name="cardgame_demo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="quiz" ConfigName="Release"/>
+      <Project Name="cardgame_demo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

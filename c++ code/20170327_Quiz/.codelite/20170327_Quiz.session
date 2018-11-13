@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/alikutlu/Belgeler/SWE/2017.2/501 c++/c++ code/20170327_Quiz/20170327_Quiz.workspace">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="/home/alikutlu/Belgeler/SWE/2017.2/501 c++/c++ code/20170327_Quiz/20170327_Quiz.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/alikutlu/Belgeler/SWE/2017.2/501 c++/c++ code/20170327_Quiz/graph-quiz/main.cpp" Name="FileName"/>
+      <int Value="14" Name="FirstVisibleLine"/>
+      <int Value="32" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/alikutlu/Belgeler/SWE/2017.2/501 c++/c++ code/20170327_Quiz/graph-quiz/graph.cpp" Name="FileName"/>
+      <int Value="20" Name="FirstVisibleLine"/>
+      <int Value="104" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds">
+        <IntVectorItem Value="2"/>
+        <IntVectorItem Value="8"/>
+        <IntVectorItem Value="26"/>
+        <IntVectorItem Value="36"/>
+        <IntVectorItem Value="42"/>
+        <IntVectorItem Value="46"/>
+        <IntVectorItem Value="54"/>
+        <IntVectorItem Value="59"/>
+        <IntVectorItem Value="64"/>
+        <IntVectorItem Value="72"/>
+        <IntVectorItem Value="111"/>
+        <IntVectorItem Value="133"/>
+        <IntVectorItem Value="155"/>
+      </IntVector>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/alikutlu/Belgeler/SWE/2017.2/501 c++/c++ code/20170327_Quiz/graph-quiz/graph.h" Name="FileName"/>
+      <int Value="7" Name="FirstVisibleLine"/>
+      <int Value="8" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/card.cpp.o ./Debug/deck.cpp.o
